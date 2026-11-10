@@ -1,8 +1,9 @@
 # SEFOP workshops
 
-Slides and material from talks and workshops on SEFOP (Software Engineering Framework for
-Optimization Programs). The book itself lives in
-[sefop-training-hub](https://github.com/sefop/sefop-training-hub).
+This repository holds the public appearances of SEFOP (Software Engineering Framework for
+Optimization Programs): the talks, workshops and conference sessions where the framework has been
+presented. Each folder keeps the slides, abstract and any supporting material for one event. The
+book itself lives in [sefop-training-hub](https://github.com/sefop/sefop-training-hub).
 
 | Date       | Event                                                        | Folder                                                                          |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------- |
